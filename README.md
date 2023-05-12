@@ -11,3 +11,5 @@ beginning of the battle, each team will stand at one of the sides/edges of the g
 position.
 
 Detailed Game Description is in a Game Description pdf file
+
+- To run the code go to './Game/src/controllers/Controller.java'
